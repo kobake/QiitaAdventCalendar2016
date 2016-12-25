@@ -1,0 +1,2058 @@
+[
+  {
+    "Name": "Visual Studio Team Services ひとり",
+    "Url": "http://qiita.com/advent-calendar/2016/vsts"
+  },
+  {
+    "Name": "bash アドベントカレンダー",
+    "Url": "http://qiita.com/advent-calendar/2016/bash"
+  },
+  {
+    "Name": "はてな",
+    "Url": "http://qiita.com/advent-calendar/2016/hatena"
+  },
+  {
+    "Name": "Slackに流し込まれた情報をbotで一人でビジュアライズとかをする",
+    "Url": "http://qiita.com/advent-calendar/2016/pickupon"
+  },
+  {
+    "Name": "Stylez",
+    "Url": "http://qiita.com/advent-calendar/2016/stylez"
+  },
+  {
+    "Name": "iOS(一人)",
+    "Url": "http://qiita.com/advent-calendar/2016/ios_shimesaba"
+  },
+  {
+    "Name": "CELL Official Server",
+    "Url": "http://qiita.com/advent-calendar/2016/cellofs201612"
+  },
+  {
+    "Name": "自然言語処理",
+    "Url": "http://qiita.com/advent-calendar/2016/nlp"
+  },
+  {
+    "Name": "stmtk",
+    "Url": "http://qiita.com/advent-calendar/2016/stmtk"
+  },
+  {
+    "Name": "Amazon Marketplace Web Service (Amazon MWS)",
+    "Url": "http://qiita.com/advent-calendar/2016/mws"
+  },
+  {
+    "Name": "【非公式】C&M GAMESゲリラ",
+    "Url": "http://qiita.com/advent-calendar/2016/cmg_hikoushiki"
+  },
+  {
+    "Name": "文字列アルゴリズム",
+    "Url": "http://qiita.com/advent-calendar/2016/str"
+  },
+  {
+    "Name": "BEFOOL",
+    "Url": "http://qiita.com/advent-calendar/2016/befool"
+  },
+  {
+    "Name": "Fusetools",
+    "Url": "http://qiita.com/advent-calendar/2016/fusetools"
+  },
+  {
+    "Name": "アルゴリズムの勉強をしてみる",
+    "Url": "http://qiita.com/advent-calendar/2016/algorithm"
+  },
+  {
+    "Name": "Fujitsu extended",
+    "Url": "http://qiita.com/advent-calendar/2016/fujitsu_ext"
+  },
+  {
+    "Name": "日進月歩（１日に一つくらい新しい発見する）",
+    "Url": "http://qiita.com/advent-calendar/2016/steady_progress"
+  },
+  {
+    "Name": "AI",
+    "Url": "http://qiita.com/advent-calendar/2016/ai"
+  },
+  {
+    "Name": "SORACOM",
+    "Url": "http://qiita.com/advent-calendar/2016/soracom"
+  },
+  {
+    "Name": "FOSS4G 二個目だよ",
+    "Url": "http://qiita.com/advent-calendar/2016/foss4gvol2"
+  },
+  {
+    "Name": "KAYAC Unity",
+    "Url": "http://qiita.com/advent-calendar/2016/kayac-unity"
+  },
+  {
+    "Name": "KAYAC",
+    "Url": "http://qiita.com/advent-calendar/2016/kayac"
+  },
+  {
+    "Name": "PlayFramework(Java)",
+    "Url": "http://qiita.com/advent-calendar/2016/play_java"
+  },
+  {
+    "Name": "Hunachi^shoujin0^algorithm0",
+    "Url": "http://qiita.com/advent-calendar/2016/hunachi-shoujin0-algorithm0"
+  },
+  {
+    "Name": "Supership株式会社",
+    "Url": "http://qiita.com/advent-calendar/2016/supership"
+  },
+  {
+    "Name": "情報科学専門学校",
+    "Url": "http://qiita.com/advent-calendar/2016/isc"
+  },
+  {
+    "Name": "早稲田大学",
+    "Url": "http://qiita.com/advent-calendar/2016/waseda"
+  },
+  {
+    "Name": "Amazon Web Services",
+    "Url": "http://qiita.com/advent-calendar/2016/aws"
+  },
+  {
+    "Name": "Scoville Engineers",
+    "Url": "http://qiita.com/advent-calendar/2016/scoville"
+  },
+  {
+    "Name": "XAML",
+    "Url": "http://qiita.com/advent-calendar/2016/xaml"
+  },
+  {
+    "Name": "カレシ・カノジョできないエンジニア",
+    "Url": "http://qiita.com/advent-calendar/2016/give_me_kareshi"
+  },
+  {
+    "Name": "TECH::CAMP2",
+    "Url": "http://qiita.com/advent-calendar/2016/tech-camp2"
+  },
+  {
+    "Name": "Wanoグループ",
+    "Url": "http://qiita.com/advent-calendar/2016/wano-group"
+  },
+  {
+    "Name": "GPD WIN",
+    "Url": "http://qiita.com/advent-calendar/2016/gpd-win"
+  },
+  {
+    "Name": "Money Forward",
+    "Url": "http://qiita.com/advent-calendar/2016/moneyforward"
+  },
+  {
+    "Name": "cocos2dx",
+    "Url": "http://qiita.com/advent-calendar/2016/cocos2dx"
+  },
+  {
+    "Name": "iRidge",
+    "Url": "http://qiita.com/advent-calendar/2016/iridge"
+  },
+  {
+    "Name": "Metal",
+    "Url": "http://qiita.com/advent-calendar/2016/metal"
+  },
+  {
+    "Name": "Fujitsu",
+    "Url": "http://qiita.com/advent-calendar/2016/fujitsu"
+  },
+  {
+    "Name": "PHPで何かを作る",
+    "Url": "http://qiita.com/advent-calendar/2016/make-system-by-php"
+  },
+  {
+    "Name": "ヴァル研究所",
+    "Url": "http://qiita.com/advent-calendar/2016/val"
+  },
+  {
+    "Name": "Colorful Board",
+    "Url": "http://qiita.com/advent-calendar/2016/colorful-board"
+  },
+  {
+    "Name": "ITイベントに参加してJGC",
+    "Url": "http://qiita.com/advent-calendar/2016/it_event_de_jgc"
+  },
+  {
+    "Name": "Raspberry Pi による乳児モニタリングシステムの開発",
+    "Url": "http://qiita.com/advent-calendar/2016/newborn-baby-monitoring"
+  },
+  {
+    "Name": "Maya-Python",
+    "Url": "http://qiita.com/advent-calendar/2016/maya-python"
+  },
+  {
+    "Name": "iOSDC",
+    "Url": "http://qiita.com/advent-calendar/2016/iosdc"
+  },
+  {
+    "Name": "一人PHP総復習",
+    "Url": "http://qiita.com/advent-calendar/2016/php_beginner"
+  },
+  {
+    "Name": "VAddy",
+    "Url": "http://qiita.com/advent-calendar/2016/vaddy"
+  },
+  {
+    "Name": "Classi",
+    "Url": "http://qiita.com/advent-calendar/2016/classi"
+  },
+  {
+    "Name": "FLASHer その2",
+    "Url": "http://qiita.com/advent-calendar/2016/flasher2"
+  },
+  {
+    "Name": "Prolog",
+    "Url": "http://qiita.com/advent-calendar/2016/prolog"
+  },
+  {
+    "Name": "FileMaker Tips",
+    "Url": "http://qiita.com/advent-calendar/2016/filemaker-tips"
+  },
+  {
+    "Name": "聖性論争部",
+    "Url": "http://qiita.com/advent-calendar/2016/holydisupute"
+  },
+  {
+    "Name": "Perl 6",
+    "Url": "http://qiita.com/advent-calendar/2016/perl6"
+  },
+  {
+    "Name": "Redis",
+    "Url": "http://qiita.com/advent-calendar/2016/redis"
+  },
+  {
+    "Name": "Perl 5",
+    "Url": "http://qiita.com/advent-calendar/2016/perl5"
+  },
+  {
+    "Name": "IBM MobileFirst",
+    "Url": "http://qiita.com/advent-calendar/2016/ibmmobilefirst"
+  },
+  {
+    "Name": "TypeScript",
+    "Url": "http://qiita.com/advent-calendar/2016/typescript"
+  },
+  {
+    "Name": "TATEditor",
+    "Url": "http://qiita.com/advent-calendar/2016/tateditor"
+  },
+  {
+    "Name": "サーバーレスアーキテクチャ",
+    "Url": "http://qiita.com/advent-calendar/2016/salad"
+  },
+  {
+    "Name": "SLP_KBITその２",
+    "Url": "http://qiita.com/advent-calendar/2016/slp_kbit2"
+  },
+  {
+    "Name": "J2complexed",
+    "Url": "http://qiita.com/advent-calendar/2016/j2complexed"
+  },
+  {
+    "Name": "1分で実現できる有用な技術",
+    "Url": "http://qiita.com/advent-calendar/2016/one-minute"
+  },
+  {
+    "Name": "自作エディタをつくる",
+    "Url": "http://qiita.com/advent-calendar/2016/make_editor"
+  },
+  {
+    "Name": "儀式",
+    "Url": "http://qiita.com/advent-calendar/2016/rite"
+  },
+  {
+    "Name": "IchigoJam",
+    "Url": "http://qiita.com/advent-calendar/2016/ichigojam"
+  },
+  {
+    "Name": "Onsen UI",
+    "Url": "http://qiita.com/advent-calendar/2016/onsenui"
+  },
+  {
+    "Name": "Rakuten",
+    "Url": "http://qiita.com/advent-calendar/2016/rakuten"
+  },
+  {
+    "Name": "アドエビスエンジニアの集い",
+    "Url": "http://qiita.com/advent-calendar/2016/technology-of-adebis"
+  },
+  {
+    "Name": "TECH::CAMP",
+    "Url": "http://qiita.com/advent-calendar/2016/tech-camp"
+  },
+  {
+    "Name": "varnish",
+    "Url": "http://qiita.com/advent-calendar/2016/varnish"
+  },
+  {
+    "Name": "Vim 8.0",
+    "Url": "http://qiita.com/advent-calendar/2016/vim8"
+  },
+  {
+    "Name": "Microsoft Azure2",
+    "Url": "http://qiita.com/advent-calendar/2016/microsoft-azure2"
+  },
+  {
+    "Name": "Life is Tech ! Members",
+    "Url": "http://qiita.com/advent-calendar/2016/lit-members"
+  },
+  {
+    "Name": "投資競馬",
+    "Url": "http://qiita.com/advent-calendar/2016/horse_race_investment"
+  },
+  {
+    "Name": "UEQareer",
+    "Url": "http://qiita.com/advent-calendar/2016/ueqareer"
+  },
+  {
+    "Name": "一人PostCSS",
+    "Url": "http://qiita.com/advent-calendar/2016/postcss"
+  },
+  {
+    "Name": "C# チュートリアル 全部俺",
+    "Url": "http://qiita.com/advent-calendar/2016/c_sharp_tutorial"
+  },
+  {
+    "Name": "Retty Inc.",
+    "Url": "http://qiita.com/advent-calendar/2016/retty"
+  },
+  {
+    "Name": "CData Software User Group",
+    "Url": "http://qiita.com/advent-calendar/2016/cdatasoftware"
+  },
+  {
+    "Name": "FLASHer",
+    "Url": "http://qiita.com/advent-calendar/2016/flashers"
+  },
+  {
+    "Name": "株式会社デジタルクエスト エンジニア",
+    "Url": "http://qiita.com/advent-calendar/2016/digiq-tech"
+  },
+  {
+    "Name": "GitLab",
+    "Url": "http://qiita.com/advent-calendar/2016/gitlab"
+  },
+  {
+    "Name": "Houdini",
+    "Url": "http://qiita.com/advent-calendar/2016/houdini"
+  },
+  {
+    "Name": "SLP_KBIT",
+    "Url": "http://qiita.com/advent-calendar/2016/slp_kbit"
+  },
+  {
+    "Name": "Schoo",
+    "Url": "http://qiita.com/advent-calendar/2016/schoo"
+  },
+  {
+    "Name": "Life is Tech !",
+    "Url": "http://qiita.com/advent-calendar/2016/life-is-tech"
+  },
+  {
+    "Name": "IDCF Cloud",
+    "Url": "http://qiita.com/advent-calendar/2016/idcfcloud"
+  },
+  {
+    "Name": "Jubatus",
+    "Url": "http://qiita.com/advent-calendar/2016/jubatus"
+  },
+  {
+    "Name": "ETロボコン",
+    "Url": "http://qiita.com/advent-calendar/2016/etrobo"
+  },
+  {
+    "Name": "Luigi (全部俺) Advent Calendar 2016",
+    "Url": "http://qiita.com/advent-calendar/2016/luigi-by-yutaka_1119"
+  },
+  {
+    "Name": "Alteryx",
+    "Url": "http://qiita.com/advent-calendar/2016/alteryx"
+  },
+  {
+    "Name": "フリーランス残酷物語",
+    "Url": "http://qiita.com/advent-calendar/2016/free_zankoku"
+  },
+  {
+    "Name": "test",
+    "Url": "http://qiita.com/advent-calendar/2016/test"
+  },
+  {
+    "Name": "スマートテック・ベンチャーズ",
+    "Url": "http://qiita.com/advent-calendar/2016/stv"
+  },
+  {
+    "Name": "IoTテスト",
+    "Url": "http://qiita.com/advent-calendar/2016/iot_testing"
+  },
+  {
+    "Name": "Hot Soup Processor",
+    "Url": "http://qiita.com/advent-calendar/2016/hsp"
+  },
+  {
+    "Name": "acairojuni",
+    "Url": "http://qiita.com/advent-calendar/2016/acairojuni"
+  },
+  {
+    "Name": "動画配信技術",
+    "Url": "http://qiita.com/advent-calendar/2016/video_streaming"
+  },
+  {
+    "Name": "セカイエ株式会社",
+    "Url": "http://qiita.com/advent-calendar/2016/sekaie"
+  },
+  {
+    "Name": "PowerShell",
+    "Url": "http://qiita.com/advent-calendar/2016/powershell"
+  },
+  {
+    "Name": "一人UE4ゲーム制作入門",
+    "Url": "http://qiita.com/advent-calendar/2016/ue4gamenyumon"
+  },
+  {
+    "Name": "ハードウェア開発、CPUアーキテクチャ",
+    "Url": "http://qiita.com/advent-calendar/2016/hardware"
+  },
+  {
+    "Name": "フロムスクラッチ",
+    "Url": "http://qiita.com/advent-calendar/2016/fromscratch"
+  },
+  {
+    "Name": "Origami",
+    "Url": "http://qiita.com/advent-calendar/2016/origami"
+  },
+  {
+    "Name": "Wondershake",
+    "Url": "http://qiita.com/advent-calendar/2016/wondershake"
+  },
+  {
+    "Name": "macOS",
+    "Url": "http://qiita.com/advent-calendar/2016/mac"
+  },
+  {
+    "Name": "vvvv",
+    "Url": "http://qiita.com/advent-calendar/2016/vvvv"
+  },
+  {
+    "Name": "Real Sakai Lab",
+    "Url": "http://qiita.com/advent-calendar/2016/rsl"
+  },
+  {
+    "Name": "RubyMine",
+    "Url": "http://qiita.com/advent-calendar/2016/rubymine"
+  },
+  {
+    "Name": "NetBSD",
+    "Url": "http://qiita.com/advent-calendar/2016/netbsd"
+  },
+  {
+    "Name": "IDD(IDOL DRIVEN DEVELOPMENT)",
+    "Url": "http://qiita.com/advent-calendar/2016/idd"
+  },
+  {
+    "Name": "2016年IT勉強総復習 ごった煮",
+    "Url": "http://qiita.com/advent-calendar/2016/hodgepodge"
+  },
+  {
+    "Name": "Yahoo! JAPAN Tech",
+    "Url": "http://qiita.com/advent-calendar/2016/yahoojapan-tech"
+  },
+  {
+    "Name": "東京理科大学",
+    "Url": "http://qiita.com/advent-calendar/2016/tokyo_university_of_science"
+  },
+  {
+    "Name": "ラクス",
+    "Url": "http://qiita.com/advent-calendar/2016/rakus"
+  },
+  {
+    "Name": "TECHSCORE Advent Calendar 2016",
+    "Url": "http://qiita.com/advent-calendar/2016/techscore"
+  },
+  {
+    "Name": "Processing",
+    "Url": "http://qiita.com/advent-calendar/2016/processing"
+  },
+  {
+    "Name": "アジャイル開発",
+    "Url": "http://qiita.com/advent-calendar/2016/agile"
+  },
+  {
+    "Name": "アラタナ",
+    "Url": "http://qiita.com/advent-calendar/2016/aratana"
+  },
+  {
+    "Name": "Morning Project Samurai",
+    "Url": "http://qiita.com/advent-calendar/2016/mpsamurai"
+  },
+  {
+    "Name": "一人トランザクション技術",
+    "Url": "http://qiita.com/advent-calendar/2016/transaction"
+  },
+  {
+    "Name": "Kubernetes",
+    "Url": "http://qiita.com/advent-calendar/2016/kubernetes"
+  },
+  {
+    "Name": "null安全",
+    "Url": "http://qiita.com/advent-calendar/2016/null_safe"
+  },
+  {
+    "Name": "Neo4j",
+    "Url": "http://qiita.com/advent-calendar/2016/neo4j"
+  },
+  {
+    "Name": "PHPで学ぶデザインパターン",
+    "Url": "http://qiita.com/advent-calendar/2016/php-design-pattern"
+  },
+  {
+    "Name": "Mathematica",
+    "Url": "http://qiita.com/advent-calendar/2016/mathematica"
+  },
+  {
+    "Name": "Groonga",
+    "Url": "http://qiita.com/advent-calendar/2016/groonga"
+  },
+  {
+    "Name": "ids-info (東京大学教養学部学際科学科総合情報学コース)",
+    "Url": "http://qiita.com/advent-calendar/2016/ids2016"
+  },
+  {
+    "Name": "gloops",
+    "Url": "http://qiita.com/advent-calendar/2016/gloops"
+  },
+  {
+    "Name": "Civic Tech",
+    "Url": "http://qiita.com/advent-calendar/2016/civictech"
+  },
+  {
+    "Name": "Qiita改善案",
+    "Url": "http://qiita.com/advent-calendar/2016/qiita_improvement"
+  },
+  {
+    "Name": "Zabbix",
+    "Url": "http://qiita.com/advent-calendar/2016/zabbix"
+  },
+  {
+    "Name": "Markdown",
+    "Url": "http://qiita.com/advent-calendar/2016/markdown"
+  },
+  {
+    "Name": "1人でHadoopの話をする",
+    "Url": "http://qiita.com/advent-calendar/2016/hadoop-cm-ozawa"
+  },
+  {
+    "Name": "Amazon QuickSight (全部俺)",
+    "Url": "http://qiita.com/advent-calendar/2016/amazon-quicksight-by-shinyaa31"
+  },
+  {
+    "Name": "Windows Device Portal",
+    "Url": "http://qiita.com/advent-calendar/2016/wdp"
+  },
+  {
+    "Name": "Distributed computing (Apache Hadoop, Spark, ...)",
+    "Url": "http://qiita.com/advent-calendar/2016/distributed-computing"
+  },
+  {
+    "Name": "数学カフェ_4次元コンテンツ出展の記録",
+    "Url": "http://qiita.com/advent-calendar/2016/mathcafe4d"
+  },
+  {
+    "Name": "WithOne",
+    "Url": "http://qiita.com/advent-calendar/2016/withone"
+  },
+  {
+    "Name": "jupyter notebook",
+    "Url": "http://qiita.com/advent-calendar/2016/jupyter"
+  },
+  {
+    "Name": "MySQL Casual",
+    "Url": "http://qiita.com/advent-calendar/2016/mysql-casual"
+  },
+  {
+    "Name": "sue445",
+    "Url": "http://qiita.com/advent-calendar/2016/sue445"
+  },
+  {
+    "Name": "マイネット",
+    "Url": "http://qiita.com/advent-calendar/2016/mynet"
+  },
+  {
+    "Name": "エムティーアイ",
+    "Url": "http://qiita.com/advent-calendar/2016/mti"
+  },
+  {
+    "Name": "サーバーワークス",
+    "Url": "http://qiita.com/advent-calendar/2016/serverworks"
+  },
+  {
+    "Name": "裏 Unreal Engine 4 (UE4)",
+    "Url": "http://qiita.com/advent-calendar/2016/ue4_inside"
+  },
+  {
+    "Name": "MongoDBアドベントカレンダー2016",
+    "Url": "http://qiita.com/advent-calendar/2016/mongodb"
+  },
+  {
+    "Name": "ランサーズ",
+    "Url": "http://qiita.com/advent-calendar/2016/lancers"
+  },
+  {
+    "Name": "いなふ進捗",
+    "Url": "http://qiita.com/advent-calendar/2016/enough"
+  },
+  {
+    "Name": "Firebird",
+    "Url": "http://qiita.com/advent-calendar/2016/firebird"
+  },
+  {
+    "Name": "さいたまげーむす",
+    "Url": "http://qiita.com/advent-calendar/2016/saitamagames"
+  },
+  {
+    "Name": "RSpec",
+    "Url": "http://qiita.com/advent-calendar/2016/rspec"
+  },
+  {
+    "Name": "GStreamer",
+    "Url": "http://qiita.com/advent-calendar/2016/gstreamer"
+  },
+  {
+    "Name": "Opal",
+    "Url": "http://qiita.com/advent-calendar/2016/opal"
+  },
+  {
+    "Name": "Notepad++",
+    "Url": "http://qiita.com/advent-calendar/2016/notepad-plus-plus"
+  },
+  {
+    "Name": "pepabo",
+    "Url": "http://qiita.com/advent-calendar/2016/pepabo"
+  },
+  {
+    "Name": "Advent Calendar 紹介",
+    "Url": "http://qiita.com/advent-calendar/2016/advent-calendar"
+  },
+  {
+    "Name": "d3.js",
+    "Url": "http://qiita.com/advent-calendar/2016/d3"
+  },
+  {
+    "Name": "オールアバウト",
+    "Url": "http://qiita.com/advent-calendar/2016/allabout"
+  },
+  {
+    "Name": "静的サイトジェネレーター",
+    "Url": "http://qiita.com/advent-calendar/2016/static-site-generator"
+  },
+  {
+    "Name": "Yesod",
+    "Url": "http://qiita.com/advent-calendar/2016/yesod"
+  },
+  {
+    "Name": "個人開発者",
+    "Url": "http://qiita.com/advent-calendar/2016/individual-developer"
+  },
+  {
+    "Name": "螺旋祭り",
+    "Url": "http://qiita.com/advent-calendar/2016/spiral-s"
+  },
+  {
+    "Name": "Pythonでマイクラ風FPS AOSを遊び倒す",
+    "Url": "http://qiita.com/advent-calendar/2016/ace_of_spades"
+  },
+  {
+    "Name": "クリエイティブコーディング",
+    "Url": "http://qiita.com/advent-calendar/2016/creative-coding"
+  },
+  {
+    "Name": "ピクシブ株式会社",
+    "Url": "http://qiita.com/advent-calendar/2016/pixiv"
+  },
+  {
+    "Name": "第2 の Aizu",
+    "Url": "http://qiita.com/advent-calendar/2016/aizu2"
+  },
+  {
+    "Name": "KIT Developer",
+    "Url": "http://qiita.com/advent-calendar/2016/kitdev"
+  },
+  {
+    "Name": "AMP",
+    "Url": "http://qiita.com/advent-calendar/2016/amp"
+  },
+  {
+    "Name": "iOS その3",
+    "Url": "http://qiita.com/advent-calendar/2016/ios3"
+  },
+  {
+    "Name": "Faust(多分ひとり)",
+    "Url": "http://qiita.com/advent-calendar/2016/faust"
+  },
+  {
+    "Name": "Tech-Circle Hands on",
+    "Url": "http://qiita.com/advent-calendar/2016/techcircle"
+  },
+  {
+    "Name": "インタープリズムの面々が、普段の業務に役立つ記事を丹精込めて書き上げる！",
+    "Url": "http://qiita.com/advent-calendar/2016/interprism"
+  },
+  {
+    "Name": "ErgoDox",
+    "Url": "http://qiita.com/advent-calendar/2016/ergodox"
+  },
+  {
+    "Name": "Slack その2",
+    "Url": "http://qiita.com/advent-calendar/2016/slack2"
+  },
+  {
+    "Name": "エムスリー",
+    "Url": "http://qiita.com/advent-calendar/2016/m3"
+  },
+  {
+    "Name": "Gaiax",
+    "Url": "http://qiita.com/advent-calendar/2016/gaiax"
+  },
+  {
+    "Name": "Erlang 一人",
+    "Url": "http://qiita.com/advent-calendar/2016/erlang-solo"
+  },
+  {
+    "Name": "アカウンティング・サース・ジャパン",
+    "Url": "http://qiita.com/advent-calendar/2016/accounting_saas_japan"
+  },
+  {
+    "Name": "絵文字 / Emoji",
+    "Url": "http://qiita.com/advent-calendar/2016/emoji"
+  },
+  {
+    "Name": "OpenWhisk",
+    "Url": "http://qiita.com/advent-calendar/2016/openwhisk"
+  },
+  {
+    "Name": "サーバサイドプログラミング関連",
+    "Url": "http://qiita.com/advent-calendar/2016/serverside"
+  },
+  {
+    "Name": "ひとり OpenAM",
+    "Url": "http://qiita.com/advent-calendar/2016/openam-alone"
+  },
+  {
+    "Name": "WHITEPLUS",
+    "Url": "http://qiita.com/advent-calendar/2016/whiteplus"
+  },
+  {
+    "Name": "_",
+    "Url": "http://qiita.com/advent-calendar/2016/mathematical_systems"
+  },
+  {
+    "Name": "FileMaker",
+    "Url": "http://qiita.com/advent-calendar/2016/filemaker"
+  },
+  {
+    "Name": "Firefox 開発ツール",
+    "Url": "http://qiita.com/advent-calendar/2016/fx_devtools"
+  },
+  {
+    "Name": "Stream Processing",
+    "Url": "http://qiita.com/advent-calendar/2016/streaming"
+  },
+  {
+    "Name": "@fukamachi-products",
+    "Url": "http://qiita.com/advent-calendar/2016/fukamachi-products"
+  },
+  {
+    "Name": "転職（その２）",
+    "Url": "http://qiita.com/advent-calendar/2016/job2"
+  },
+  {
+    "Name": "Machine Learning for Artists",
+    "Url": "http://qiita.com/advent-calendar/2016/ml4a"
+  },
+  {
+    "Name": "新人エンジニア",
+    "Url": "http://qiita.com/advent-calendar/2016/freshman_engineer"
+  },
+  {
+    "Name": "株式会社ネクスト(Lifull)",
+    "Url": "http://qiita.com/advent-calendar/2016/lifull"
+  },
+  {
+    "Name": "Vim (その2)",
+    "Url": "http://qiita.com/advent-calendar/2016/vim2"
+  },
+  {
+    "Name": "Solaris",
+    "Url": "http://qiita.com/advent-calendar/2016/solaris"
+  },
+  {
+    "Name": "Esolang(難解プログラミング言語)",
+    "Url": "http://qiita.com/advent-calendar/2016/esolang"
+  },
+  {
+    "Name": "Web Audio | Web MIDI",
+    "Url": "http://qiita.com/advent-calendar/2016/webaudiomidi"
+  },
+  {
+    "Name": "数学",
+    "Url": "http://qiita.com/advent-calendar/2016/math"
+  },
+  {
+    "Name": "BRIGHT VIE エンジニア",
+    "Url": "http://qiita.com/advent-calendar/2016/brightvie"
+  },
+  {
+    "Name": "カノジョできてるエンジニア",
+    "Url": "http://qiita.com/advent-calendar/2016/yes-girlfriend"
+  },
+  {
+    "Name": "LabVIEW",
+    "Url": "http://qiita.com/advent-calendar/2016/labview"
+  },
+  {
+    "Name": "CodeIgniter",
+    "Url": "http://qiita.com/advent-calendar/2016/code_igniter"
+  },
+  {
+    "Name": "Dockerize",
+    "Url": "http://qiita.com/advent-calendar/2016/dockerize"
+  },
+  {
+    "Name": "Netflix OSS",
+    "Url": "http://qiita.com/advent-calendar/2016/netflixoss"
+  },
+  {
+    "Name": "ACCESS",
+    "Url": "http://qiita.com/advent-calendar/2016/access"
+  },
+  {
+    "Name": "今年買った(ハックした)IoTガジェット",
+    "Url": "http://qiita.com/advent-calendar/2016/iot-gadgets"
+  },
+  {
+    "Name": "トレタ",
+    "Url": "http://qiita.com/advent-calendar/2016/toreta"
+  },
+  {
+    "Name": "ゲームエンジン・ライブラリ・ツールの開発",
+    "Url": "http://qiita.com/advent-calendar/2016/gameengine"
+  },
+  {
+    "Name": "HoloLens",
+    "Url": "http://qiita.com/advent-calendar/2016/hololens"
+  },
+  {
+    "Name": "Google Apps Script",
+    "Url": "http://qiita.com/advent-calendar/2016/gas"
+  },
+  {
+    "Name": "Stan",
+    "Url": "http://qiita.com/advent-calendar/2016/stan"
+  },
+  {
+    "Name": "炎の型工房 ScratchとDartでゲームプログラム入門",
+    "Url": "http://qiita.com/advent-calendar/2016/firefirestyle-studio"
+  },
+  {
+    "Name": "ソフトウェアテスト",
+    "Url": "http://qiita.com/advent-calendar/2016/softwaretesting"
+  },
+  {
+    "Name": "eeic （東京大学工学部電気電子・電子情報工学科）その2",
+    "Url": "http://qiita.com/advent-calendar/2016/eeic2"
+  },
+  {
+    "Name": "re:dash",
+    "Url": "http://qiita.com/advent-calendar/2016/redash"
+  },
+  {
+    "Name": "Appcelerator Titanium",
+    "Url": "http://qiita.com/advent-calendar/2016/titanium"
+  },
+  {
+    "Name": "KOIL CSC",
+    "Url": "http://qiita.com/advent-calendar/2016/koil-csc"
+  },
+  {
+    "Name": "Robot/ロボット",
+    "Url": "http://qiita.com/advent-calendar/2016/robot"
+  },
+  {
+    "Name": "Julia",
+    "Url": "http://qiita.com/advent-calendar/2016/julialang"
+  },
+  {
+    "Name": "DATUM STUDIO",
+    "Url": "http://qiita.com/advent-calendar/2016/datumstudio"
+  },
+  {
+    "Name": "Akerun",
+    "Url": "http://qiita.com/advent-calendar/2016/akerun"
+  },
+  {
+    "Name": "PlayFramework(Scala)",
+    "Url": "http://qiita.com/advent-calendar/2016/play_scala"
+  },
+  {
+    "Name": "Hamee",
+    "Url": "http://qiita.com/advent-calendar/2016/hamee"
+  },
+  {
+    "Name": "Webサイトパフォーマンス",
+    "Url": "http://qiita.com/advent-calendar/2016/website-performance"
+  },
+  {
+    "Name": "mediba",
+    "Url": "http://qiita.com/advent-calendar/2016/mediba"
+  },
+  {
+    "Name": "Quad inc",
+    "Url": "http://qiita.com/advent-calendar/2016/quad-inc"
+  },
+  {
+    "Name": "High Performance Computing (HPC)",
+    "Url": "http://qiita.com/advent-calendar/2016/hpc"
+  },
+  {
+    "Name": "錯視",
+    "Url": "http://qiita.com/advent-calendar/2016/illusion"
+  },
+  {
+    "Name": "RStudio",
+    "Url": "http://qiita.com/advent-calendar/2016/rstudio-ide"
+  },
+  {
+    "Name": "Podcast",
+    "Url": "http://qiita.com/advent-calendar/2016/podcast"
+  },
+  {
+    "Name": "littleBits",
+    "Url": "http://qiita.com/advent-calendar/2016/littlebits"
+  },
+  {
+    "Name": "myThings",
+    "Url": "http://qiita.com/advent-calendar/2016/mythings"
+  },
+  {
+    "Name": "SendGrid",
+    "Url": "http://qiita.com/advent-calendar/2016/sendgrid"
+  },
+  {
+    "Name": "Lint",
+    "Url": "http://qiita.com/advent-calendar/2016/lint"
+  },
+  {
+    "Name": "BitVisor",
+    "Url": "http://qiita.com/advent-calendar/2016/bitvisor"
+  },
+  {
+    "Name": "ConoHa",
+    "Url": "http://qiita.com/advent-calendar/2016/conoha"
+  },
+  {
+    "Name": "さくらインターネット（その２）",
+    "Url": "http://qiita.com/advent-calendar/2016/sakura2"
+  },
+  {
+    "Name": "Ceresクリエイティブ",
+    "Url": "http://qiita.com/advent-calendar/2016/ceres-creative"
+  },
+  {
+    "Name": "Elixir (その2)とPhoenix",
+    "Url": "http://qiita.com/advent-calendar/2016/elixir2_and_phoenix"
+  },
+  {
+    "Name": "Paper Plane xUI",
+    "Url": "http://qiita.com/advent-calendar/2016/ppx"
+  },
+  {
+    "Name": "プロ生ちゃん",
+    "Url": "http://qiita.com/advent-calendar/2016/pronama-chan"
+  },
+  {
+    "Name": "信州大学 kstm",
+    "Url": "http://qiita.com/advent-calendar/2016/kstm"
+  },
+  {
+    "Name": "CloudAnalytics",
+    "Url": "http://qiita.com/advent-calendar/2016/analytics"
+  },
+  {
+    "Name": "OpenStreetMap",
+    "Url": "http://qiita.com/advent-calendar/2016/osmjp"
+  },
+  {
+    "Name": "Crystal",
+    "Url": "http://qiita.com/advent-calendar/2016/crystal"
+  },
+  {
+    "Name": "アイスタイル",
+    "Url": "http://qiita.com/advent-calendar/2016/istyle"
+  },
+  {
+    "Name": "さくらインターネット",
+    "Url": "http://qiita.com/advent-calendar/2016/sakura"
+  },
+  {
+    "Name": "R",
+    "Url": "http://qiita.com/advent-calendar/2016/r-rstudio"
+  },
+  {
+    "Name": "可視化 / Data Visualization",
+    "Url": "http://qiita.com/advent-calendar/2016/dataviz"
+  },
+  {
+    "Name": "下請けCOBOLERとして生きていた頃のノウハウ",
+    "Url": "http://qiita.com/advent-calendar/2016/cobol"
+  },
+  {
+    "Name": "Ansible",
+    "Url": "http://qiita.com/advent-calendar/2016/ansible"
+  },
+  {
+    "Name": "CureApp",
+    "Url": "http://qiita.com/advent-calendar/2016/cureapp"
+  },
+  {
+    "Name": "eeic （東京大学工学部電気電子・電子情報工学科）",
+    "Url": "http://qiita.com/advent-calendar/2016/eeic"
+  },
+  {
+    "Name": "Happy Elements株式会社カカリアスタジオ",
+    "Url": "http://qiita.com/advent-calendar/2016/hekk_cacalia_studio"
+  },
+  {
+    "Name": "Queue, Inc.",
+    "Url": "http://qiita.com/advent-calendar/2016/queue_inc"
+  },
+  {
+    "Name": "Okinawa.go",
+    "Url": "http://qiita.com/advent-calendar/2016/okinawago"
+  },
+  {
+    "Name": "Okinawa.rb",
+    "Url": "http://qiita.com/advent-calendar/2016/okinawarb"
+  },
+  {
+    "Name": "リクルートライフスタイル",
+    "Url": "http://qiita.com/advent-calendar/2016/recruitlifestyle"
+  },
+  {
+    "Name": "eureka",
+    "Url": "http://qiita.com/advent-calendar/2016/eureka"
+  },
+  {
+    "Name": "GetWild",
+    "Url": "http://qiita.com/advent-calendar/2016/getwild"
+  },
+  {
+    "Name": "Ateam引越し侍",
+    "Url": "http://qiita.com/advent-calendar/2016/a-hikkoshi"
+  },
+  {
+    "Name": "phina.js",
+    "Url": "http://qiita.com/advent-calendar/2016/phinajs"
+  },
+  {
+    "Name": "Vuls",
+    "Url": "http://qiita.com/advent-calendar/2016/vuls"
+  },
+  {
+    "Name": "eZ Publish / eZ Platform",
+    "Url": "http://qiita.com/advent-calendar/2016/ezpublish"
+  },
+  {
+    "Name": "ownCloud/Nextcloud Japan",
+    "Url": "http://qiita.com/advent-calendar/2016/owncloudjp"
+  },
+  {
+    "Name": "Serverless(2)",
+    "Url": "http://qiita.com/advent-calendar/2016/serverless2"
+  },
+  {
+    "Name": "DIVE INTO CODE",
+    "Url": "http://qiita.com/advent-calendar/2016/diveintocode"
+  },
+  {
+    "Name": "Rust その2",
+    "Url": "http://qiita.com/advent-calendar/2016/rust-lang-2"
+  },
+  {
+    "Name": "GPU で暖を取りたい人のための GLSL",
+    "Url": "http://qiita.com/advent-calendar/2016/glsl"
+  },
+  {
+    "Name": "D言語くん",
+    "Url": "http://qiita.com/advent-calendar/2016/d-man"
+  },
+  {
+    "Name": "ディップ",
+    "Url": "http://qiita.com/advent-calendar/2016/dip-dev"
+  },
+  {
+    "Name": "DevRel",
+    "Url": "http://qiita.com/advent-calendar/2016/devrel"
+  },
+  {
+    "Name": "vte.cx",
+    "Url": "http://qiita.com/advent-calendar/2016/vtecx"
+  },
+  {
+    "Name": "Selenium/Appium",
+    "Url": "http://qiita.com/advent-calendar/2016/selenium_and_appium"
+  },
+  {
+    "Name": "レトロ Lisp",
+    "Url": "http://qiita.com/advent-calendar/2016/retro-lisp"
+  },
+  {
+    "Name": "初老丸",
+    "Url": "http://qiita.com/advent-calendar/2016/syoroumaru"
+  },
+  {
+    "Name": "2016年自作PC総括",
+    "Url": "http://qiita.com/advent-calendar/2016/build-pc-diy"
+  },
+  {
+    "Name": "岩手県立大学",
+    "Url": "http://qiita.com/advent-calendar/2016/ipu"
+  },
+  {
+    "Name": "エキサイト",
+    "Url": "http://qiita.com/advent-calendar/2016/excite"
+  },
+  {
+    "Name": "GLBoost",
+    "Url": "http://qiita.com/advent-calendar/2016/glboost"
+  },
+  {
+    "Name": "Moodle",
+    "Url": "http://qiita.com/advent-calendar/2016/moodle"
+  },
+  {
+    "Name": "Myuon Corp.",
+    "Url": "http://qiita.com/advent-calendar/2016/myuon"
+  },
+  {
+    "Name": "WebAudio Web MIDI API",
+    "Url": "http://qiita.com/advent-calendar/2016/webaudio"
+  },
+  {
+    "Name": "子育てエンジニア",
+    "Url": "http://qiita.com/advent-calendar/2016/kosodate-engineer"
+  },
+  {
+    "Name": "技術書献本大感謝",
+    "Url": "http://qiita.com/advent-calendar/2016/bookthankyou"
+  },
+  {
+    "Name": "Shinosaka.rb",
+    "Url": "http://qiita.com/advent-calendar/2016/shinosakarb"
+  },
+  {
+    "Name": "機械学習に必要な高校数学やり直しアドベントカレンダー",
+    "Url": "http://qiita.com/advent-calendar/2016/math_for_ml"
+  },
+  {
+    "Name": "Docker2",
+    "Url": "http://qiita.com/advent-calendar/2016/docker2"
+  },
+  {
+    "Name": "Grimoire.js",
+    "Url": "http://qiita.com/advent-calendar/2016/grimoire"
+  },
+  {
+    "Name": "FOSS4G",
+    "Url": "http://qiita.com/advent-calendar/2016/foss4g"
+  },
+  {
+    "Name": "Formal Method",
+    "Url": "http://qiita.com/advent-calendar/2016/formal-method"
+  },
+  {
+    "Name": "スタートトゥデイ工務店",
+    "Url": "http://qiita.com/advent-calendar/2016/stk"
+  },
+  {
+    "Name": "Twilio",
+    "Url": "http://qiita.com/advent-calendar/2016/twilio"
+  },
+  {
+    "Name": "日本情報クリエイト Engineers",
+    "Url": "http://qiita.com/advent-calendar/2016/njc"
+  },
+  {
+    "Name": "Shanon",
+    "Url": "http://qiita.com/advent-calendar/2016/shanon"
+  },
+  {
+    "Name": "SRA",
+    "Url": "http://qiita.com/advent-calendar/2016/sra"
+  },
+  {
+    "Name": "JavaScript",
+    "Url": "http://qiita.com/advent-calendar/2016/javascript"
+  },
+  {
+    "Name": "Geb",
+    "Url": "http://qiita.com/advent-calendar/2016/geb"
+  },
+  {
+    "Name": "JetBrains",
+    "Url": "http://qiita.com/advent-calendar/2016/jetbrains"
+  },
+  {
+    "Name": "Atrae",
+    "Url": "http://qiita.com/advent-calendar/2016/atrae"
+  },
+  {
+    "Name": "筋肉",
+    "Url": "http://qiita.com/advent-calendar/2016/muscle"
+  },
+  {
+    "Name": "React Native",
+    "Url": "http://qiita.com/advent-calendar/2016/react-native"
+  },
+  {
+    "Name": "Windows",
+    "Url": "http://qiita.com/advent-calendar/2016/windows"
+  },
+  {
+    "Name": "レコメンドエンジン",
+    "Url": "http://qiita.com/advent-calendar/2016/recommend-engine"
+  },
+  {
+    "Name": "Monstar Lab, Inc.",
+    "Url": "http://qiita.com/advent-calendar/2016/monstar-lab"
+  },
+  {
+    "Name": "インテリジェンス",
+    "Url": "http://qiita.com/advent-calendar/2016/intelligence"
+  },
+  {
+    "Name": "Jenkinsオジサン",
+    "Url": "http://qiita.com/advent-calendar/2016/ojisan"
+  },
+  {
+    "Name": "InfluxDB",
+    "Url": "http://qiita.com/advent-calendar/2016/influxdb"
+  },
+  {
+    "Name": "mruby",
+    "Url": "http://qiita.com/advent-calendar/2016/mruby"
+  },
+  {
+    "Name": "Cocoa",
+    "Url": "http://qiita.com/advent-calendar/2016/cocoa"
+  },
+  {
+    "Name": "FiNC Developer",
+    "Url": "http://qiita.com/advent-calendar/2016/fincdevelopers"
+  },
+  {
+    "Name": "ネクストスケープ 配信事業本部",
+    "Url": "http://qiita.com/advent-calendar/2016/nextscape-media-delivery-dept"
+  },
+  {
+    "Name": "AfterEffects",
+    "Url": "http://qiita.com/advent-calendar/2016/aftereffects"
+  },
+  {
+    "Name": "Symfony",
+    "Url": "http://qiita.com/advent-calendar/2016/symfony"
+  },
+  {
+    "Name": "OpenCV",
+    "Url": "http://qiita.com/advent-calendar/2016/opencv"
+  },
+  {
+    "Name": "ファーストサーバ",
+    "Url": "http://qiita.com/advent-calendar/2016/firstserver"
+  },
+  {
+    "Name": "アプレッソ",
+    "Url": "http://qiita.com/advent-calendar/2016/appresso"
+  },
+  {
+    "Name": "Nextremer",
+    "Url": "http://qiita.com/advent-calendar/2016/nextremer"
+  },
+  {
+    "Name": "freee Engineers",
+    "Url": "http://qiita.com/advent-calendar/2016/freee"
+  },
+  {
+    "Name": "WACUL",
+    "Url": "http://qiita.com/advent-calendar/2016/wacul"
+  },
+  {
+    "Name": "Bluetooth Low Energy",
+    "Url": "http://qiita.com/advent-calendar/2016/bluetooth_low_energy"
+  },
+  {
+    "Name": "Haskell Performance",
+    "Url": "http://qiita.com/advent-calendar/2016/haskell-performance"
+  },
+  {
+    "Name": "[初心者さん・学生さん大歓迎！] Xamarin その2",
+    "Url": "http://qiita.com/advent-calendar/2016/xamarin-welcome"
+  },
+  {
+    "Name": "Qt",
+    "Url": "http://qiita.com/advent-calendar/2016/qt"
+  },
+  {
+    "Name": "Goodpatch",
+    "Url": "http://qiita.com/advent-calendar/2016/goodpatch"
+  },
+  {
+    "Name": "JavaScript Robotics",
+    "Url": "http://qiita.com/advent-calendar/2016/javascriptrobotics"
+  },
+  {
+    "Name": "NoSQL＆NewSQL",
+    "Url": "http://qiita.com/advent-calendar/2016/nosql-newsql"
+  },
+  {
+    "Name": "Fusic",
+    "Url": "http://qiita.com/advent-calendar/2016/fusic"
+  },
+  {
+    "Name": "Theorem Prover",
+    "Url": "http://qiita.com/advent-calendar/2016/theorem-prover"
+  },
+  {
+    "Name": "ポエム",
+    "Url": "http://qiita.com/advent-calendar/2016/poet"
+  },
+  {
+    "Name": "フロントエンドエンジニア",
+    "Url": "http://qiita.com/advent-calendar/2016/frontend-engineers"
+  },
+  {
+    "Name": "Hortonworks",
+    "Url": "http://qiita.com/advent-calendar/2016/hortonworks"
+  },
+  {
+    "Name": "Go (その3)",
+    "Url": "http://qiita.com/advent-calendar/2016/go3"
+  },
+  {
+    "Name": "Visual Basic",
+    "Url": "http://qiita.com/advent-calendar/2016/vb"
+  },
+  {
+    "Name": "ROS",
+    "Url": "http://qiita.com/advent-calendar/2016/ros"
+  },
+  {
+    "Name": "NetOpsCoding",
+    "Url": "http://qiita.com/advent-calendar/2016/netopscoding"
+  },
+  {
+    "Name": "カノジョできない機械学習界隈エンジニア",
+    "Url": "http://qiita.com/advent-calendar/2016/no-girlfriend-ml"
+  },
+  {
+    "Name": "Chainer",
+    "Url": "http://qiita.com/advent-calendar/2016/chainer"
+  },
+  {
+    "Name": "Android その３",
+    "Url": "http://qiita.com/advent-calendar/2016/android_third"
+  },
+  {
+    "Name": "TokyoSW",
+    "Url": "http://qiita.com/advent-calendar/2016/tokyosw"
+  },
+  {
+    "Name": "Payara",
+    "Url": "http://qiita.com/advent-calendar/2016/payara"
+  },
+  {
+    "Name": "JavaFX",
+    "Url": "http://qiita.com/advent-calendar/2016/javafx"
+  },
+  {
+    "Name": "Java Puzzlers",
+    "Url": "http://qiita.com/advent-calendar/2016/java_puzzlers"
+  },
+  {
+    "Name": "New Relic",
+    "Url": "http://qiita.com/advent-calendar/2016/newrelic"
+  },
+  {
+    "Name": "Redux",
+    "Url": "http://qiita.com/advent-calendar/2016/redux"
+  },
+  {
+    "Name": "Microsoft Cognitive Services & Bot Framework",
+    "Url": "http://qiita.com/advent-calendar/2016/cogbot"
+  },
+  {
+    "Name": "コミュニケーション",
+    "Url": "http://qiita.com/advent-calendar/2016/communication"
+  },
+  {
+    "Name": "Fess",
+    "Url": "http://qiita.com/advent-calendar/2016/fess"
+  },
+  {
+    "Name": "言語実装",
+    "Url": "http://qiita.com/advent-calendar/2016/lang_dev"
+  },
+  {
+    "Name": "Aizu",
+    "Url": "http://qiita.com/advent-calendar/2016/aizu"
+  },
+  {
+    "Name": "KUSANAGI",
+    "Url": "http://qiita.com/advent-calendar/2016/kusanagi"
+  },
+  {
+    "Name": "Solr",
+    "Url": "http://qiita.com/advent-calendar/2016/solr"
+  },
+  {
+    "Name": "CakePHP3",
+    "Url": "http://qiita.com/advent-calendar/2016/cakephp3"
+  },
+  {
+    "Name": "Google Cloud Platform(2)",
+    "Url": "http://qiita.com/advent-calendar/2016/gcp2"
+  },
+  {
+    "Name": "Dart",
+    "Url": "http://qiita.com/advent-calendar/2016/dartlang"
+  },
+  {
+    "Name": "CYBIRDエンジニア",
+    "Url": "http://qiita.com/advent-calendar/2016/cybird"
+  },
+  {
+    "Name": "Smalltalk",
+    "Url": "http://qiita.com/advent-calendar/2016/smalltalk"
+  },
+  {
+    "Name": "Machine Learning",
+    "Url": "http://qiita.com/advent-calendar/2016/machine-learning"
+  },
+  {
+    "Name": "CSS",
+    "Url": "http://qiita.com/advent-calendar/2016/css"
+  },
+  {
+    "Name": "ジーズアカデミー",
+    "Url": "http://qiita.com/advent-calendar/2016/gsacademy"
+  },
+  {
+    "Name": "Rails Girls Japan",
+    "Url": "http://qiita.com/advent-calendar/2016/railsgirlsjapan"
+  },
+  {
+    "Name": "G*Advent Calendar(Groovy,Grails,Gradle,Spock...)",
+    "Url": "http://qiita.com/advent-calendar/2016/gastah"
+  },
+  {
+    "Name": "Elm",
+    "Url": "http://qiita.com/advent-calendar/2016/elm"
+  },
+  {
+    "Name": "オーバレイネットワーク",
+    "Url": "http://qiita.com/advent-calendar/2016/overlay-network"
+  },
+  {
+    "Name": "D言語",
+    "Url": "http://qiita.com/advent-calendar/2016/dlang"
+  },
+  {
+    "Name": ".emacs",
+    "Url": "http://qiita.com/advent-calendar/2016/dot-emacs"
+  },
+  {
+    "Name": "kintone",
+    "Url": "http://qiita.com/advent-calendar/2016/kintone"
+  },
+  {
+    "Name": "Product Owner",
+    "Url": "http://qiita.com/advent-calendar/2016/productowner"
+  },
+  {
+    "Name": "Lisp",
+    "Url": "http://qiita.com/advent-calendar/2016/lisp"
+  },
+  {
+    "Name": "Product Manager",
+    "Url": "http://qiita.com/advent-calendar/2016/productmanager"
+  },
+  {
+    "Name": "Electron",
+    "Url": "http://qiita.com/advent-calendar/2016/electron"
+  },
+  {
+    "Name": "Swift愛好会",
+    "Url": "http://qiita.com/advent-calendar/2016/love_swift"
+  },
+  {
+    "Name": "ML",
+    "Url": "http://qiita.com/advent-calendar/2016/ml"
+  },
+  {
+    "Name": "レイトレ",
+    "Url": "http://qiita.com/advent-calendar/2016/raytracing"
+  },
+  {
+    "Name": "Engraphia",
+    "Url": "http://qiita.com/advent-calendar/2016/engraphia"
+  },
+  {
+    "Name": "Haskell",
+    "Url": "http://qiita.com/advent-calendar/2016/haskell"
+  },
+  {
+    "Name": "IT勉強会/コミュニティ運営",
+    "Url": "http://qiita.com/advent-calendar/2016/event-management"
+  },
+  {
+    "Name": "C言語",
+    "Url": "http://qiita.com/advent-calendar/2016/the-c-programming-language"
+  },
+  {
+    "Name": "FreeBSD",
+    "Url": "http://qiita.com/advent-calendar/2016/freebsd"
+  },
+  {
+    "Name": "チャットボット",
+    "Url": "http://qiita.com/advent-calendar/2016/chatbot"
+  },
+  {
+    "Name": "Erlang",
+    "Url": "http://qiita.com/advent-calendar/2016/erlang"
+  },
+  {
+    "Name": "Unity 2",
+    "Url": "http://qiita.com/advent-calendar/2016/unity2"
+  },
+  {
+    "Name": "Unreal Engine 4 (UE4)",
+    "Url": "http://qiita.com/advent-calendar/2016/ue4"
+  },
+  {
+    "Name": "AltPlus",
+    "Url": "http://qiita.com/advent-calendar/2016/altplus"
+  },
+  {
+    "Name": "TensorFlow",
+    "Url": "http://qiita.com/advent-calendar/2016/tensorflow"
+  },
+  {
+    "Name": "Mithril.js",
+    "Url": "http://qiita.com/advent-calendar/2016/mithriljs"
+  },
+  {
+    "Name": "Nim",
+    "Url": "http://qiita.com/advent-calendar/2016/nim"
+  },
+  {
+    "Name": "ひとりVRカレンダー",
+    "Url": "http://qiita.com/advent-calendar/2016/vr"
+  },
+  {
+    "Name": "Microsoft Azure",
+    "Url": "http://qiita.com/advent-calendar/2016/azure"
+  },
+  {
+    "Name": "Serverless",
+    "Url": "http://qiita.com/advent-calendar/2016/serverless"
+  },
+  {
+    "Name": "Bluemix(SoftLayer)",
+    "Url": "http://qiita.com/advent-calendar/2016/bluemix"
+  },
+  {
+    "Name": "Fablic",
+    "Url": "http://qiita.com/advent-calendar/2016/fablic"
+  },
+  {
+    "Name": "IoTLT",
+    "Url": "http://qiita.com/advent-calendar/2016/iotlt"
+  },
+  {
+    "Name": "システムエンジニア",
+    "Url": "http://qiita.com/advent-calendar/2016/se"
+  },
+  {
+    "Name": "Atom",
+    "Url": "http://qiita.com/advent-calendar/2016/atom"
+  },
+  {
+    "Name": "Mackerel",
+    "Url": "http://qiita.com/advent-calendar/2016/mackerel"
+  },
+  {
+    "Name": "Laravel",
+    "Url": "http://qiita.com/advent-calendar/2016/laravel"
+  },
+  {
+    "Name": "Scala",
+    "Url": "http://qiita.com/advent-calendar/2016/scala"
+  },
+  {
+    "Name": "第2のドワンゴ",
+    "Url": "http://qiita.com/advent-calendar/2016/dwango2"
+  },
+  {
+    "Name": "Seattle Consulting",
+    "Url": "http://qiita.com/advent-calendar/2016/seattleconsulting"
+  },
+  {
+    "Name": "Datadog",
+    "Url": "http://qiita.com/advent-calendar/2016/datadog"
+  },
+  {
+    "Name": "WebGL",
+    "Url": "http://qiita.com/advent-calendar/2016/webgl"
+  },
+  {
+    "Name": "A-Frame",
+    "Url": "http://qiita.com/advent-calendar/2016/a-frame"
+  },
+  {
+    "Name": "LITALICO Engineers",
+    "Url": "http://qiita.com/advent-calendar/2016/litalico"
+  },
+  {
+    "Name": "mixiグループ",
+    "Url": "http://qiita.com/advent-calendar/2016/mixi"
+  },
+  {
+    "Name": "Emacs",
+    "Url": "http://qiita.com/advent-calendar/2016/emacs"
+  },
+  {
+    "Name": "Git",
+    "Url": "http://qiita.com/advent-calendar/2016/git"
+  },
+  {
+    "Name": "Three.js",
+    "Url": "http://qiita.com/advent-calendar/2016/threejs"
+  },
+  {
+    "Name": "Salesforce App Cloud",
+    "Url": "http://qiita.com/advent-calendar/2016/salesforce-app-cloud"
+  },
+  {
+    "Name": "Slack",
+    "Url": "http://qiita.com/advent-calendar/2016/slack"
+  },
+  {
+    "Name": "qnote",
+    "Url": "http://qiita.com/advent-calendar/2016/qnote"
+  },
+  {
+    "Name": "Drupal",
+    "Url": "http://qiita.com/advent-calendar/2016/drupal"
+  },
+  {
+    "Name": "N高",
+    "Url": "http://qiita.com/advent-calendar/2016/n-highschool"
+  },
+  {
+    "Name": "Opt Technologies",
+    "Url": "http://qiita.com/advent-calendar/2016/opt-technologies"
+  },
+  {
+    "Name": "iOS その2",
+    "Url": "http://qiita.com/advent-calendar/2016/ios2"
+  },
+  {
+    "Name": "KLab",
+    "Url": "http://qiita.com/advent-calendar/2016/klab"
+  },
+  {
+    "Name": "アクトインディ",
+    "Url": "http://qiita.com/advent-calendar/2016/actindi"
+  },
+  {
+    "Name": "ボット・クローラー",
+    "Url": "http://qiita.com/advent-calendar/2016/bot"
+  },
+  {
+    "Name": "フューチャーアーキテクト",
+    "Url": "http://qiita.com/advent-calendar/2016/future"
+  },
+  {
+    "Name": "NIFTY",
+    "Url": "http://qiita.com/advent-calendar/2016/nifty"
+  },
+  {
+    "Name": "Delphi",
+    "Url": "http://qiita.com/advent-calendar/2016/delphi"
+  },
+  {
+    "Name": "Realm",
+    "Url": "http://qiita.com/advent-calendar/2016/realm"
+  },
+  {
+    "Name": "ソフトウェアアーキテクチャ",
+    "Url": "http://qiita.com/advent-calendar/2016/software-architecture"
+  },
+  {
+    "Name": "React",
+    "Url": "http://qiita.com/advent-calendar/2016/react"
+  },
+  {
+    "Name": "作ったアプリ自慢！",
+    "Url": "http://qiita.com/advent-calendar/2016/application-jiman"
+  },
+  {
+    "Name": "技術翻訳",
+    "Url": "http://qiita.com/advent-calendar/2016/translation"
+  },
+  {
+    "Name": "ドワンゴ",
+    "Url": "http://qiita.com/advent-calendar/2016/dwango"
+  },
+  {
+    "Name": "Visual Studio Code",
+    "Url": "http://qiita.com/advent-calendar/2016/vscode"
+  },
+  {
+    "Name": "GeekWomenJapan",
+    "Url": "http://qiita.com/advent-calendar/2016/geekwomenjapan"
+  },
+  {
+    "Name": "F#",
+    "Url": "http://qiita.com/advent-calendar/2016/fsharp"
+  },
+  {
+    "Name": "Go (その2)",
+    "Url": "http://qiita.com/advent-calendar/2016/go2"
+  },
+  {
+    "Name": "EC-CUBE",
+    "Url": "http://qiita.com/advent-calendar/2016/ec-cube"
+  },
+  {
+    "Name": "Unity Assets",
+    "Url": "http://qiita.com/advent-calendar/2016/unity-asset"
+  },
+  {
+    "Name": "Oculus Rift",
+    "Url": "http://qiita.com/advent-calendar/2016/oculus-rift"
+  },
+  {
+    "Name": "gumi Inc.",
+    "Url": "http://qiita.com/advent-calendar/2016/gumi"
+  },
+  {
+    "Name": "Python",
+    "Url": "http://qiita.com/advent-calendar/2016/python"
+  },
+  {
+    "Name": "おうちハック",
+    "Url": "http://qiita.com/advent-calendar/2016/ouch-hack"
+  },
+  {
+    "Name": "Androidその２",
+    "Url": "http://qiita.com/advent-calendar/2016/android_second"
+  },
+  {
+    "Name": "Akatsuki",
+    "Url": "http://qiita.com/advent-calendar/2016/aktsk"
+  },
+  {
+    "Name": "Visual Studio",
+    "Url": "http://qiita.com/advent-calendar/2016/vs"
+  },
+  {
+    "Name": "Siv3D",
+    "Url": "http://qiita.com/advent-calendar/2016/siv3d"
+  },
+  {
+    "Name": "DeepLearning",
+    "Url": "http://qiita.com/advent-calendar/2016/deeplearning"
+  },
+  {
+    "Name": "次世代グラフィックスAPI",
+    "Url": "http://qiita.com/advent-calendar/2016/new-graphics"
+  },
+  {
+    "Name": "Clojure",
+    "Url": "http://qiita.com/advent-calendar/2016/clojure"
+  },
+  {
+    "Name": "Heroku",
+    "Url": "http://qiita.com/advent-calendar/2016/heroku"
+  },
+  {
+    "Name": "Atlassian User Group Tokyo",
+    "Url": "http://qiita.com/advent-calendar/2016/augtokyo"
+  },
+  {
+    "Name": "Docker",
+    "Url": "http://qiita.com/advent-calendar/2016/docker"
+  },
+  {
+    "Name": "Elastic stack (Elasticsearch)",
+    "Url": "http://qiita.com/advent-calendar/2016/elastic"
+  },
+  {
+    "Name": "NIJIBOX",
+    "Url": "http://qiita.com/advent-calendar/2016/nijibox"
+  },
+  {
+    "Name": "法律",
+    "Url": "http://qiita.com/advent-calendar/2016/law"
+  },
+  {
+    "Name": "Elixir",
+    "Url": "http://qiita.com/advent-calendar/2016/elixir"
+  },
+  {
+    "Name": "HAL",
+    "Url": "http://qiita.com/advent-calendar/2016/hal"
+  },
+  {
+    "Name": "仮想通貨・ブロックチェーン",
+    "Url": "http://qiita.com/advent-calendar/2016/blockchain"
+  },
+  {
+    "Name": "ESP8266/ESP-wroom-02",
+    "Url": "http://qiita.com/advent-calendar/2016/esp8266"
+  },
+  {
+    "Name": "Microservices",
+    "Url": "http://qiita.com/advent-calendar/2016/microservices"
+  },
+  {
+    "Name": "RxSwift",
+    "Url": "http://qiita.com/advent-calendar/2016/rxswift"
+  },
+  {
+    "Name": "Vim",
+    "Url": "http://qiita.com/advent-calendar/2016/vim"
+  },
+  {
+    "Name": "Python",
+    "Url": "http://qiita.com/advent-calendar/2016/python_python"
+  },
+  {
+    "Name": "http2",
+    "Url": "http://qiita.com/advent-calendar/2016/http2"
+  },
+  {
+    "Name": "dotstudio",
+    "Url": "http://qiita.com/advent-calendar/2016/dotstudio"
+  },
+  {
+    "Name": "Student",
+    "Url": "http://qiita.com/advent-calendar/2016/student"
+  },
+  {
+    "Name": "なんでもセキュリティ",
+    "Url": "http://qiita.com/advent-calendar/2016/security"
+  },
+  {
+    "Name": ".NET Core",
+    "Url": "http://qiita.com/advent-calendar/2016/netcore"
+  },
+  {
+    "Name": "ASP.NET",
+    "Url": "http://qiita.com/advent-calendar/2016/asp-net"
+  },
+  {
+    "Name": "Node.js",
+    "Url": "http://qiita.com/advent-calendar/2016/nodejs"
+  },
+  {
+    "Name": "PHP",
+    "Url": "http://qiita.com/advent-calendar/2016/php"
+  },
+  {
+    "Name": "OthloTech",
+    "Url": "http://qiita.com/advent-calendar/2016/othlotech"
+  },
+  {
+    "Name": "Rust",
+    "Url": "http://qiita.com/advent-calendar/2016/rust-lang"
+  },
+  {
+    "Name": "Xamarin(その2)",
+    "Url": "http://qiita.com/advent-calendar/2016/xamarin2"
+  },
+  {
+    "Name": "カノジョできないエンジニア",
+    "Url": "http://qiita.com/advent-calendar/2016/no-girlfriend"
+  },
+  {
+    "Name": "C#",
+    "Url": "http://qiita.com/advent-calendar/2016/csharp"
+  },
+  {
+    "Name": "Swift その2",
+    "Url": "http://qiita.com/advent-calendar/2016/swift2"
+  },
+  {
+    "Name": "enebular",
+    "Url": "http://qiita.com/advent-calendar/2016/enebular"
+  },
+  {
+    "Name": "PostgreSQL",
+    "Url": "http://qiita.com/advent-calendar/2016/postgresql"
+  },
+  {
+    "Name": "Ruby",
+    "Url": "http://qiita.com/advent-calendar/2016/ruby"
+  },
+  {
+    "Name": "dots.女子部",
+    "Url": "http://qiita.com/advent-calendar/2016/dots_girls"
+  },
+  {
+    "Name": "Google Cloud Platform(1)",
+    "Url": "http://qiita.com/advent-calendar/2016/gcp"
+  },
+  {
+    "Name": "Node-RED",
+    "Url": "http://qiita.com/advent-calendar/2016/nodered"
+  },
+  {
+    "Name": "RxJava",
+    "Url": "http://qiita.com/advent-calendar/2016/rxjava"
+  },
+  {
+    "Name": "[学生さん・初心者さん大歓迎！]Xamarin",
+    "Url": "http://qiita.com/advent-calendar/2016/xamarin-student"
+  },
+  {
+    "Name": "Java EE",
+    "Url": "http://qiita.com/advent-calendar/2016/javaee"
+  },
+  {
+    "Name": "Linux",
+    "Url": "http://qiita.com/advent-calendar/2016/linux"
+  },
+  {
+    "Name": "ヒューマンコンピュータインタラクション論文紹介",
+    "Url": "http://qiita.com/advent-calendar/2016/hci"
+  },
+  {
+    "Name": "nginx",
+    "Url": "http://qiita.com/advent-calendar/2016/nginx"
+  },
+  {
+    "Name": "転職",
+    "Url": "http://qiita.com/advent-calendar/2016/job"
+  },
+  {
+    "Name": "Ruby on Rails",
+    "Url": "http://qiita.com/advent-calendar/2016/ruby_on_rails"
+  },
+  {
+    "Name": "Shell Script",
+    "Url": "http://qiita.com/advent-calendar/2016/shell-script"
+  },
+  {
+    "Name": "クラウドワークス",
+    "Url": "http://qiita.com/advent-calendar/2016/crowdworks"
+  },
+  {
+    "Name": "Sansan",
+    "Url": "http://qiita.com/advent-calendar/2016/sansan"
+  },
+  {
+    "Name": "Rails",
+    "Url": "http://qiita.com/advent-calendar/2016/rails-info"
+  },
+  {
+    "Name": "Java",
+    "Url": "http://qiita.com/advent-calendar/2016/java"
+  },
+  {
+    "Name": "Firebase",
+    "Url": "http://qiita.com/advent-calendar/2016/firebase"
+  },
+  {
+    "Name": "Android",
+    "Url": "http://qiita.com/advent-calendar/2016/android"
+  },
+  {
+    "Name": "ベーシック",
+    "Url": "http://qiita.com/advent-calendar/2016/basicinc"
+  },
+  {
+    "Name": "Go",
+    "Url": "http://qiita.com/advent-calendar/2016/go"
+  },
+  {
+    "Name": "Vue.js",
+    "Url": "http://qiita.com/advent-calendar/2016/vue"
+  },
+  {
+    "Name": "クソアプリ",
+    "Url": "http://qiita.com/advent-calendar/2016/kusoapp"
+  },
+  {
+    "Name": "Windows 10 IoT Core",
+    "Url": "http://qiita.com/advent-calendar/2016/ms-iot"
+  },
+  {
+    "Name": "Riot.js",
+    "Url": "http://qiita.com/advent-calendar/2016/riotjs"
+  },
+  {
+    "Name": "iOS",
+    "Url": "http://qiita.com/advent-calendar/2016/ios"
+  },
+  {
+    "Name": "Perl入学式",
+    "Url": "http://qiita.com/advent-calendar/2016/perl-entrance"
+  },
+  {
+    "Name": "Xamarin",
+    "Url": "http://qiita.com/advent-calendar/2016/xamarin"
+  },
+  {
+    "Name": "Speee",
+    "Url": "http://qiita.com/advent-calendar/2016/speee"
+  },
+  {
+    "Name": "Livesenseその3",
+    "Url": "http://qiita.com/advent-calendar/2016/livesense_3"
+  },
+  {
+    "Name": "Angular",
+    "Url": "http://qiita.com/advent-calendar/2016/angular"
+  },
+  {
+    "Name": "Kotlin",
+    "Url": "http://qiita.com/advent-calendar/2016/kotlin"
+  },
+  {
+    "Name": "Livesenseその2",
+    "Url": "http://qiita.com/advent-calendar/2016/livesense_2"
+  },
+  {
+    "Name": "Milkcocoa",
+    "Url": "http://qiita.com/advent-calendar/2016/milkcocoa"
+  },
+  {
+    "Name": "Unity",
+    "Url": "http://qiita.com/advent-calendar/2016/unity"
+  },
+  {
+    "Name": "Livesense",
+    "Url": "http://qiita.com/advent-calendar/2016/livesense_1"
+  },
+  {
+    "Name": "Swift",
+    "Url": "http://qiita.com/advent-calendar/2016/swift"
+  },
+  {
+    "Name": "クローラー／Webスクレイピング",
+    "Url": "http://qiita.com/advent-calendar/2016/crawler"
+  },
+  {
+    "Name": "Django",
+    "Url": "http://qiita.com/advent-calendar/2016/django"
+  }
+]
