@@ -131,6 +131,7 @@ namespace ShuminaviCrawl
             // フェーズ6: マークダウンとして出力
             if (true)
             {
+                OutputRankingMarkdown("ranking_20.md", 20);
                 OutputRankingMarkdown("ranking_30.md", 30);
                 OutputRankingMarkdown("ranking_50.md", 50);
                 OutputRankingMarkdown("ranking_all.md", -1);
