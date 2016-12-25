@@ -141,7 +141,8 @@ namespace ShuminaviCrawl
             foreach (var a in articles)
             {
                 if (content != "") content += "<br/>";
-                content += string.Format("({0} {1}日目) [{2}]({3})",a.CalendarName, a.Day, a.ArticleName.Replace("|", "&#x7c;"), a.ArticleUrl);
+                content += string.Format("([{0}]({1}) {2}日目) [{3}]({4})",
+                    a.CalendarName, a.CalendarUrl, a.Day, a.ArticleName.Replace("|", "&#x7c;"), a.ArticleUrl);
             }
             return content;
         }
