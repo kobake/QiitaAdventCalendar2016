@@ -132,6 +132,7 @@ namespace ShuminaviCrawl
             if (true)
             {
                 OutputRankingMarkdown("ranking_30.md", 30);
+                OutputRankingMarkdown("ranking_50.md", 50);
                 OutputRankingMarkdown("ranking_all.md", -1);
             }
         }
