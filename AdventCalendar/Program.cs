@@ -41,13 +41,13 @@ namespace ShuminaviCrawl
         public async Task DoAll()
         {
             // フェーズ1: カレンダー一覧取得 (514カレンダー)
-            if (true)
+            if (false)
             {
                 await CalendarManager.GetAlllCalendars();
             }
 
             // フェーズ2: カレンダー毎の記事情報取得
-            if (true)
+            if (false)
             {
                 List<Article> articles = new List<Article>();
                 var calendars = JsonIo.LoadJson<List<Calendar>>("calendars.json");
@@ -61,7 +61,7 @@ namespace ShuminaviCrawl
             }
 
             // フェーズ3: 集計
-            if (true)
+            if (false)
             {
                 // 作者毎にまとめる
                 Dictionary<string, List<Article>> authorArticles = new Dictionary<string, List<Article>>();
@@ -87,7 +87,7 @@ namespace ShuminaviCrawl
             }
 
             // フェーズ4: 記事数順に並べる
-            if (true)
+            if (false)
             {
                 List<User> users = new List<User>();
                 Dictionary<string, List<Article>> authorArticles = JsonIo.LoadJson<Dictionary<string, List<Article>>>("author_articles.json");
@@ -110,7 +110,7 @@ namespace ShuminaviCrawl
             }
 
             // フェーズ5: 順位番号を付ける（同順は同じ数値)
-            if (true)
+            if (false)
             {
                 List<User> users = JsonIo.LoadJson<List<User>>("pre_ranking.json");
                 int rank = 1;
@@ -131,12 +131,13 @@ namespace ShuminaviCrawl
             // フェーズ6: マークダウンとして出力
             if (true)
             {
-                OutputRankingMarkdown("ranking_10.md", 10);
-                OutputRankingMarkdown("ranking_15.md", 15);
-                OutputRankingMarkdown("ranking_20.md", 20);
-                OutputRankingMarkdown("ranking_30.md", 30);
-                OutputRankingMarkdown("ranking_50.md", 50);
-                OutputRankingMarkdown("ranking_all.md", -1);
+                // OutputRankingMarkdown("ranking_10.md", 10);
+                // OutputRankingMarkdown("ranking_15.md", 15);
+                // OutputRankingMarkdown("ranking_20.md", 20);
+                // OutputRankingMarkdown("ranking_30.md", 30);
+                // OutputRankingMarkdown("ranking_50.md", 50);
+                // OutputRankingMarkdown("ranking_all.md", -1);
+                OutputRankingMarkdownEx("ranking_ex.md", 50);
             }
         }
         string GetArticlesLinks(List<Article> articles)
@@ -156,19 +157,73 @@ namespace ShuminaviCrawl
             string content = "";
             content += "|  No|ユーザ|投稿数|記事一覧|\n";
             content += "|---:|:-----|-----:|:-------|\n";
+            foreach (var user in users)
+            {
+                if (limit != -1 && user.Rank > limit) break; // 切り上げ条件
+                content += string.Format("|{0}|<img src='{1}' width='18' height='18' alt='{2}'> @{3}|{4}|{5}|\n",
+                    user.Rank,
+                    user.UserIconUrl, user.UserName,
+                    user.UserName,
+                    user.ArticleCount,
+                    GetArticlesLinks(user.Articles)
+                );
+            }
+            JsonIo.SaveText(filename, content);
+        }
+        void OutputRankingMarkdownEx(string filename, int limit)
+        {
+            List<User> users = JsonIo.LoadJson<List<User>>("ranking.json");
+            string content = "";
+            content += "|  No|ユーザ|投稿数|記事一覧|\n";
+            content += "|---:|:-----|-----:|:-------|\n";
             int cnt = 0;
             foreach (var user in users)
             {
                 if (limit != -1 && user.Rank > limit) break; // 切り上げ条件
-                content += string.Format("|{0}|<img src='{1}' width='18' height='18' alt='{2}'> [{3}]({4})|{5}|{6}|\n",
+                content += string.Format("|{0}|<img src='{1}' width='18' height='18' alt='{2}'> @{3}|{4}|{5}|\n",
                     user.Rank,
                     user.UserIconUrl, user.UserName,
-                    user.UserName, "http://qiita.com/" + user.UserName,
+                    user.UserName,
                     user.ArticleCount,
                     GetArticlesLinks(user.Articles)
                 );
                 cnt++;
             }
+
+            // limit以降
+            content += "\n";
+            content += "|  No|投稿数|ユーザ|\n";
+            content += "|---:|-----:|:-----|\n";
+            Dictionary<int, List<User>> extraUsers = new Dictionary<int, List<User>>();
+            for (int i = cnt; i < users.Count; i++) {
+                int rank = users[i].Rank;
+                if (!extraUsers.ContainsKey(rank)) extraUsers[rank] = new List<User>();
+                extraUsers[rank].Add(users[i]);
+            }
+            foreach(var rank in extraUsers.Keys)
+            {
+                content += string.Format("|{0}|{1}|", rank, extraUsers[rank][0].ArticleCount);
+                string names = "";
+                foreach (var user in extraUsers[rank])
+                {
+                    if (names != "") names += ", ";
+                    if (true)
+                    {
+                        names += string.Format(
+                            "<img src='{0}' width='18' height='18' alt='{1}'>@{2}",
+                            user.UserIconUrl, user.UserName, user.UserName
+                        );
+                    }
+                    else
+                    {
+                        names += string.Format(
+                            "@{0}", user.UserName
+                        );
+                    }
+                }
+                content += names + "|\n";
+            }
+
             JsonIo.SaveText(filename, content);
         }
     }
