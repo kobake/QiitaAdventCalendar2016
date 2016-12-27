@@ -47,12 +47,16 @@ namespace ShuminaviCrawl
             }
 
             // フェーズ2: カレンダー毎の記事情報取得
-            if (false)
+            if (true)
             {
                 List<Article> articles = new List<Article>();
                 var calendars = JsonIo.LoadJson<List<Calendar>>("calendars.json");
                 foreach (var calendar in calendars)
                 {
+                    // (@n0bisuke さんから連絡済み)
+                    // dotstudioカレンダーはほとんど記事準備ができてないらしいので、除外。
+                    if (calendar.Url == "http://qiita.com/advent-calendar/2016/dotstudio") continue;
+
                     var a = await ArticleManager.GetCalendarArticles(calendar.Url, calendar.Name);
                     articles.AddRange(a);
                     //break;
@@ -61,7 +65,7 @@ namespace ShuminaviCrawl
             }
 
             // フェーズ3: 集計
-            if (false)
+            if (true)
             {
                 // 作者毎にまとめる
                 Dictionary<string, List<Article>> authorArticles = new Dictionary<string, List<Article>>();
@@ -87,7 +91,7 @@ namespace ShuminaviCrawl
             }
 
             // フェーズ4: 記事数順に並べる
-            if (false)
+            if (true)
             {
                 List<User> users = new List<User>();
                 Dictionary<string, List<Article>> authorArticles = JsonIo.LoadJson<Dictionary<string, List<Article>>>("author_articles.json");
@@ -110,7 +114,7 @@ namespace ShuminaviCrawl
             }
 
             // フェーズ5: 順位番号を付ける（同順は同じ数値)
-            if (false)
+            if (true)
             {
                 List<User> users = JsonIo.LoadJson<List<User>>("pre_ranking.json");
                 int rank = 1;
@@ -131,12 +135,12 @@ namespace ShuminaviCrawl
             // フェーズ6: マークダウンとして出力
             if (true)
             {
-                // OutputRankingMarkdown("ranking_10.md", 10);
-                // OutputRankingMarkdown("ranking_15.md", 15);
-                // OutputRankingMarkdown("ranking_20.md", 20);
-                // OutputRankingMarkdown("ranking_30.md", 30);
-                // OutputRankingMarkdown("ranking_50.md", 50);
-                // OutputRankingMarkdown("ranking_all.md", -1);
+                OutputRankingMarkdown("ranking_10.md", 10);
+                OutputRankingMarkdown("ranking_15.md", 15);
+                OutputRankingMarkdown("ranking_20.md", 20);
+                OutputRankingMarkdown("ranking_30.md", 30);
+                OutputRankingMarkdown("ranking_50.md", 50);
+                OutputRankingMarkdown("ranking_all.md", -1);
                 OutputRankingMarkdown("ranking_100.md", 100);
                 OutputRankingMarkdownEx("ranking_ex.md", 50);
             }
